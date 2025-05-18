@@ -1,5 +1,6 @@
 # bt-in-githab-server
-使用方法
+使用方法:
+注意githab不能当作正常服务器使用
 白嫖githab服务器
 前提：先创建这个仓库的代码空间
 1先运行【sudo su】（获取root权限）
